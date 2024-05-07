@@ -1,2 +1,2 @@
-# ML_sample_code_base
-For my future reference
+# shallow_ml_with_optuna
+For shallow ml tasks
